@@ -11,6 +11,7 @@ You can test it with:
 ----------------------------
 > input:
 
+```
 SEEK FIND RANDOM CESHARIF SLEUTH BACKWARD WIKIPEDIAISCOOL VERTICAL NEW DIAGONAL NNNN GLOBAL WIKIPEDIA SUNISWARM HORIZONTAL NEWWORDS WORDSEARCH
 
 10 10
@@ -34,9 +35,10 @@ A L R K R R I R E R
 K O D I D E D R C D
 
 H E L W S L E U T H
+```
 
 > output:
-
+```
 WORDSEARCH
 
 VERTICAL
@@ -56,5 +58,5 @@ DIAGONAL
 WIKIPEDIA
 
 SLEUTH
-
+```
 ----------------------------
