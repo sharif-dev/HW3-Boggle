@@ -38,14 +38,23 @@ H E L W S L E U T H
 > output:
 
 WORDSEARCH
+
 VERTICAL
+
 RANDOM
+
 FIND
+
 BACKWARD
+
 SEEK
+
 HORIZONTAL
+
 DIAGONAL
+
 WIKIPEDIA
+
 SLEUTH
 
 ----------------------------
